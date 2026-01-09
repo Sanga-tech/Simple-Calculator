@@ -1,3 +1,5 @@
+![calculator](https://github.com/user-attachments/assets/1561bea1-2fd6-4af7-899d-02162e4f99a1)
+![calculator](https://github.com/user-attachments/assets/f0b25639-7daa-4b7a-9720-0e63a926eb96)
 <!DOCTYPE html>
 <html>
 <head>
